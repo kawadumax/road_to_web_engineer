@@ -1,0 +1,6 @@
+[book]
+authors = ["和丸"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Road to Web Engineer"
