@@ -1,6 +1,10 @@
 [book]
-authors = ["和丸"]
-language = "en"
+authors = ["kawadumax"]
+language = "ja"
 multilingual = false
 src = "src"
 title = "Road to Web Engineer"
+
+[build]
+build-dir = "docs"
+create-missing = true
