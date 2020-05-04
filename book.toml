@@ -1,9 +1,10 @@
 [book]
-authors = ["kawadumax"]
+authors = ["Kazuma Kondo"]
 language = "ja"
 multilingual = false
 src = "src"
 title = "Road to Web Engineer"
+description = "未経験からWebエンジニアになるためのガイドブック"
 
 [build]
 build-dir = "docs"
